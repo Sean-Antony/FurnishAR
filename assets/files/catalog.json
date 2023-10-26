@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "White Sofa Chair",
+            "desc": "A chic and pristine chair.",
+            "price": 300,
+            "color": "#33505a",
+            "image": "assets/images/white_sofa.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Light Brown Chair",
+            "desc": "A cozy and inviting chair.",
+            "price": 250,
+            "color": "#00ac51",
+            "image": "assets/images/light_brown_sofa.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Brown Chair",
+            "desc": "A rich and earthy chair.",
+            "price": 300,
+            "color": "#e3e4e9",
+            "image": "assets/images/Wardrobe.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Photo Frame",
+            "desc": "A rich and earthy chair.",
+            "price": 300,
+            "color": "#e3e4e9",
+            "image": "assets/images/frame.jpg"
+        }
+    ]
+}
